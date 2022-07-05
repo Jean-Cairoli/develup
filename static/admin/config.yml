@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Jean-Cairoli/develup
+  repo: develup/develup.github.io
   branch: master # Branch to update (optional; defaults to master)
   site_domain: symphonious-vacherin-ea831d.netlify.com
 
